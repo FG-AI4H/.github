@@ -4,3 +4,5 @@ The ITU/WHO Focus Group on Artificial Intelligence for Health (FG-AI4H), founded
 
 ## Contribute to this project
 If you want to contribute to this project please start [here](https://github.com/FG-AI4H/Documentation/tree/wikiMaster/Onboarding)
+
+CC BY 4.0
