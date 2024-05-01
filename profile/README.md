@@ -31,7 +31,7 @@ serves as an interface for other packages to access this data using the FHIR sta
 offers data governance that complies with data protection laws. Facilitates data compilation
 for many modalities; registers data and metadata; offers a federated data catalogue and data
 governance; ingests data; and manages patient consent information.
-- Data annotation package: Provides an annotation campaign management API and annotation
+- [Data annotation package](https://github.com/FG-AI4H/annotation-tool/blob/master/README.md): Provides an annotation campaign management API and annotation
 interfaces for many modalities; includes collaboration features; develops a network of
 annotation experts; and creates notifications of pending annotation tasks. OCI partners
 provide annotation tools integrated with the FG-AI4H platform, e.g., AI-based pre-annotation
@@ -39,7 +39,7 @@ platform or 3D image annotation user interface.
 - Training package: Provides a Privacy Preserving Federated Learning solution enabling
 training on datasets that need to stay at their location. This solution guarantees secure sharing
 of models and model aggregation.
-- Evaluation (audit) package: Offers testing measures and methods for different quality
+- [Evaluation (audit) package](https://github.com/FG-AI4H/health-aiaudit-platform/blob/master/README.md): Offers testing measures and methods for different quality
 dimensions including interpretation, bias, uncertainty, and robustness; questionnaires provide
 qualitative evaluation addressing ethical and governance considerations.
 - Reporting package: A customizable reporting interface that presents the results of the
