@@ -1,4 +1,4 @@
-# Focus Group on AI for Health (FG-AI4H) - Annotation Platform
+# Focus Group on AI for Health (FG-AI4H)
 The Focus Group on Artificial Intelligence for Health (FG-AI4H) was established under ITU-T
 SG16 and operated as a partnership of the International Telecommunication Union (ITU) and the
 World Health Organization (WHO) to develop a standardized assessment framework for the
