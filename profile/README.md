@@ -26,7 +26,7 @@ allow reuse in a variety of contexts, as well as for transparency and easier ver
 The OCI contains five main working packages:
 - Core package: Provisions the common services to all packages, e.g., storage, authentication
 and authorization to access resources.
-- [Data acquisition and storage package](https://github.com/FG-AI4H/Documentation/blob/wikiMaster/Data-Acquisition-Package-(DAP).md): Provides safe and secure storage of medical data;
+- [Data acquisition and storage package](https://github.com/FG-AI4H/Documentation/blob/wikiMaster/Data-Acquisition-Package-(DAP)/Data-Acquisition-Package-(DAP).md): Provides safe and secure storage of medical data;
 serves as an interface for other packages to access this data using the FHIR standard; and
 offers data governance that complies with data protection laws. Facilitates data compilation
 for many modalities; registers data and metadata; offers a federated data catalogue and data
